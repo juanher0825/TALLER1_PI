@@ -18,5 +18,10 @@ namespace Taller1
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+
+        public static void FillDatos(string PATH)
+        {
+
+        }
     }
 }
