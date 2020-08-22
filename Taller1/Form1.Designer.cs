@@ -32,6 +32,8 @@
             this.btnExaminar = new System.Windows.Forms.Button();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.labelRuta = new System.Windows.Forms.Label();
+            this.grilla = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.grilla)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -67,16 +69,26 @@
             this.labelRuta.TabIndex = 2;
             this.labelRuta.Text = "label2";
             // 
+            // grilla
+            // 
+            this.grilla.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.grilla.Location = new System.Drawing.Point(20, 82);
+            this.grilla.Name = "grilla";
+            this.grilla.Size = new System.Drawing.Size(730, 210);
+            this.grilla.TabIndex = 3;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.grilla);
             this.Controls.Add(this.labelRuta);
             this.Controls.Add(this.btnExaminar);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.grilla)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -88,5 +100,6 @@
         private System.Windows.Forms.Button btnExaminar;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
         private System.Windows.Forms.Label labelRuta;
+        private System.Windows.Forms.DataGridView grilla;
     }
 }
