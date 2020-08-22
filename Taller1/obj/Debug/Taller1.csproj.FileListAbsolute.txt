@@ -1,0 +1,10 @@
+C:\Users\Juan\Documents\Universidad Icesi\Semestre 6\Proyecto Integrador\Repositorios C##\Taller1\Taller1\bin\Debug\Taller1.exe.config
+C:\Users\Juan\Documents\Universidad Icesi\Semestre 6\Proyecto Integrador\Repositorios C##\Taller1\Taller1\bin\Debug\Taller1.exe
+C:\Users\Juan\Documents\Universidad Icesi\Semestre 6\Proyecto Integrador\Repositorios C##\Taller1\Taller1\bin\Debug\Taller1.pdb
+C:\Users\Juan\Documents\Universidad Icesi\Semestre 6\Proyecto Integrador\Repositorios C##\Taller1\Taller1\obj\Debug\Taller1.csprojAssemblyReference.cache
+C:\Users\Juan\Documents\Universidad Icesi\Semestre 6\Proyecto Integrador\Repositorios C##\Taller1\Taller1\obj\Debug\Taller1.Form1.resources
+C:\Users\Juan\Documents\Universidad Icesi\Semestre 6\Proyecto Integrador\Repositorios C##\Taller1\Taller1\obj\Debug\Taller1.Properties.Resources.resources
+C:\Users\Juan\Documents\Universidad Icesi\Semestre 6\Proyecto Integrador\Repositorios C##\Taller1\Taller1\obj\Debug\Taller1.csproj.GenerateResource.cache
+C:\Users\Juan\Documents\Universidad Icesi\Semestre 6\Proyecto Integrador\Repositorios C##\Taller1\Taller1\obj\Debug\Taller1.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\Universidad Icesi\Semestre 6\Proyecto Integrador\Repositorios C##\Taller1\Taller1\obj\Debug\Taller1.exe
+C:\Users\Juan\Documents\Universidad Icesi\Semestre 6\Proyecto Integrador\Repositorios C##\Taller1\Taller1\obj\Debug\Taller1.pdb
